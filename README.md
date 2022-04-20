@@ -10,5 +10,8 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default)](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama07&theme=default)](https://github.com/ahmedosama07/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama07&theme=dark)](https://github.com/ahmedosama07/github-readme-stats#gh-dark-mode-only)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=default)](https://github.com/ahmedosama07/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=dark)](https://github.com/ahmedosama07/github-readme-stats#gh-dark-mode-only)
