@@ -5,7 +5,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmed-osama-7514b610a/#gh-light-mode-only) 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmed-osama-7514b610a/#gh-dark-mode-only)
 &emsp;
-[![website](./img/icons8-gmail-32.svg)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjDTQPwJrWhmszfNMwPdPkBfDNpzjmkZhTxsStfhLrXdWgqVtBPQSzFZgPdlpWcrmLNqB)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default)](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
