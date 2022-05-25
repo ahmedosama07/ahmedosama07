@@ -5,6 +5,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmed-osama-7514b610a/#gh-light-mode-only) 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmed-osama-7514b610a/#gh-dark-mode-only)
 &emsp;
+<a href="mailto:ahmed.osama8282@gmail.com"> <img src="/img/icons8-gmail-32.svg"> </a>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default)](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
