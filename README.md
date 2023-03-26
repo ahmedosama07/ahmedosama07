@@ -16,17 +16,6 @@
 </picture>
 </p>
 
-- 👀 I’m interested in robotics.
-
-<div class="header">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-osama-afefy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-osama-afefy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmed_osama8282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_osama8282" height="30" width="40" /></a>
-<a href="mailto:ahmed.osama8282@gmail.com"> <img align="center" src="/img/icons8-gmail-32.svg"> </a>
-</p>
-</div>
-
  <p align="center">
 <picture>
   <source
@@ -65,3 +54,13 @@
   />
 </picture>
 </p>
+
+___
+<div class="header">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmed-osama-afefy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-osama-afefy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ahmed_osama8282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmed_osama8282" height="30" width="40" /></a>
+<a href="mailto:ahmed.osama8282@gmail.com"> <img align="center" src="/img/icons8-gmail-32.svg"> </a>
+</p>
+</div>
