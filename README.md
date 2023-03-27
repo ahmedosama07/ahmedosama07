@@ -6,11 +6,11 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=ahmedosama07&theme=onedark"
+    srcset="https://github-profile-trophy.vercel.app/?username=ahmedosama07&theme=onedark&no-frame=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ahmedosama07"
+    src="https://github-profile-trophy.vercel.app/?username=ahmedosama07&no-frame=true"
     media="(prefers-color-scheme: light)"
   />
 </picture>
