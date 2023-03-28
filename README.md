@@ -32,11 +32,11 @@
  <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama07&theme=dark"
+    srcset="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedosama07&theme=default"
+    src="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=default"
     media="(prefers-color-scheme: light)"
   />
 </picture>
