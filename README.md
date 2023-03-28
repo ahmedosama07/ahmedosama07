@@ -19,11 +19,11 @@
  <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default"
+    src="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default"
     media="(prefers-color-scheme: light)"
   />
 </picture>
@@ -45,11 +45,11 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=default"
+    src="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=default"
     media="(prefers-color-scheme: light)"
   />
 </picture>
