@@ -11,7 +11,7 @@
   />
   <img
     src="https://github-profile-trophy.vercel.app/?username=ahmedosama07&no-frame=true"
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
 </p>
@@ -19,12 +19,12 @@
  <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light)"
+    src="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
 </p>
@@ -37,7 +37,7 @@
   />
   <img
     src="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=default"
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
 </p>
@@ -45,12 +45,12 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light)"
+    src="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
 </p>
