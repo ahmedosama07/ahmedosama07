@@ -6,7 +6,7 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=ahmedosama07&theme=onedark&no-frame=true"
+    srcset="https://github-profile-trophy-ahmedosama07.vercel.app/?username=ahmedosama07&theme=onedark&no-frame=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
