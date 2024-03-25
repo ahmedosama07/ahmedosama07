@@ -10,7 +10,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-profile-trophy-alpha.vercel.app/?username=ahmedosama07&no-frame=true&column=3"
+    src="https://github-profile-trophy-alpha.vercel.app/?username=ahmedosama07&no-frame=true&column=-1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
